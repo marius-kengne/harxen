@@ -25,9 +25,9 @@ import { docs } from "../data";
           </div>
         </div>
 
-        <div class="hint p">
+        <!--div class="hint p">
           Astuce : les guides peuvent être stockés en Markdown et rendus automatiquement (évolution prévue).
-        </div>
+        </div-->
       </div>
     </section>
   `,

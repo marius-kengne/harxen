@@ -5,10 +5,10 @@ export const site = {
   domain: "harxen.fr",
   tagline: "Laboratoire d’ingénierie DevSecOps",
   intro:
-    "Laboratoire DevSecOps conçu pour déployer une infrastructure réaliste (virtualisation, CI/CD, conteneurs, observabilité, durcissement) et publier une documentation reproductible.",
+    "Laboratoire DevSecOps conçu pour déployer une infrastructure réaliste (applications développées, virtualisation, CI/CD, conteneurs, observabilité, durcissement) et publier une documentation reproductible.",
   links: {
-    github: "https://github.com/TON_GITHUB",
-    linkedin: "https://www.linkedin.com/in/TON_LINKEDIN",
+    github: "https://github.com/marius-kengne?tab=repositories",
+    linkedin: "https://www.linkedin.com/in/marius-kengne/",
     email: "contact@harxen.fr",
   },
   footerBy: "by Marius kengne",
@@ -67,7 +67,7 @@ export const projects = [
 ];
 
 export const docs = [
-  { title: "Design de l’architecture du lab", date: "2026-01-21", state: "À publier" },
-  { title: "Installation Proxmox sur serveur dédié", date: "2026-01-21", state: "À publier" },
-  { title: "Reverse proxy + SSL (Nginx/Traefik)", date: "2026-02-21", state: "À publier" },
+  { title: "Design de l’architecture du lab", date: "A venir", state: "À publier" },
+  { title: "Installation Proxmox sur serveur dédié", date: "A venir", state: "À publier" },
+  { title: "Reverse proxy + SSL (Nginx/Traefik)", date: "A venir", state: "À publier" },
 ];

@@ -11,7 +11,7 @@ import { site } from "../data";
         <div>
           <h1 class="h2">À propos</h1>
           <p class="p max">
-            Harxen Labs est un laboratoire DevSecOps orienté pratique : infrastructure, automatisation, sécurité et documentation.
+            Harxen Labs est un laboratoire DevSecOps orienté pratique : visualisation des applications développées, déploiement d'infrastructure, automatisation, sécurité et documentation.
             L’objectif est de démontrer des compétences d’ingénierie via un lab réel et des guides reproductibles.
           </p>
         </div>
@@ -27,7 +27,7 @@ import { site } from "../data";
               <span class="badge">Security</span>
               <span class="badge">Observabilité</span>
             </div>
-            <p class="p">Ce site sert de portfolio officiel : présentation, services, projets et documentation.</p>
+            <p class="p">Ce site sert de portfolio officiel : présentation, services, projets réalisés et déployés, et documentation.</p>
           </div>
 
           <div class="card p24">
@@ -37,7 +37,7 @@ import { site } from "../data";
               <a class="btn" [href]="site.links.linkedin" target="_blank" rel="noreferrer">LinkedIn</a>
               <a class="btn primary" [href]="'mailto:' + site.links.email">Contact</a>
             </div>
-            <p class="p small">Les liens sont configurables dans <code>src/app/data.ts</code>.</p>
+            <!--p class="p small">Les liens sont configurables dans <code>src/app/data.ts</code>.</p-->
           </div>
         </div>
       </div>

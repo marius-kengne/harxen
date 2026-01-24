@@ -12,7 +12,7 @@ import { projects } from "../data";
           <img class="logo" src="assets/projets.png" alt="Harxen Labs logo">
           <h1 class="h2">Projets</h1>
           <p class="p max">
-            Sélection de projets techniques. Les déploiements et validations seront réalisés dans le lab au fil de la roadmap.
+            Sélection des applications développées. Les déploiements et validations seront réalisés dans le lab au fil de la roadmap.
           </p>
         </div>
 

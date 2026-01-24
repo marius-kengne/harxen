@@ -11,7 +11,7 @@ import { site } from "../data";
         <div>
           <h1 class="h2">Contact</h1>
           <p class="p max">
-            Pour opportunités, questions techniques ou collaboration. Un formulaire pourra être ajouté ensuite, mais l’email reste le moyen le plus direct.
+            Pour opportunités, questions techniques ou collaboration, écrivez à cette adresse électronique.
           </p>
         </div>
 
@@ -28,7 +28,7 @@ import { site } from "../data";
           </div>
 
           <div class="card p24">
-            <div class="card-title">À inclure</div>
+            <div class="card-title">À inclure dans le mail</div>
             <ul class="list">
               <li>Contexte (stage / job / projet)</li>
               <li>Lien LinkedIn ou GitHub</li>
